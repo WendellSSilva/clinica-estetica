@@ -8,4 +8,4 @@ Landing page responsiva desenvolvida para o segmento de clínicas de estética e
 * JavaScript (Interatividade e animações)
 
 ## 🚀 Link do Projeto no Ar
-[Clique aqui para visualizar a demonstração](https://clinica-estetica-murex.vercel.app)
+[Clique aqui para visualizar a demonstração](https://clinica-estetica.vercel.app)
